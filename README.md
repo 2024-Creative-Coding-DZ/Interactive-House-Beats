@@ -9,6 +9,7 @@ YouTube Link: https://www.youtube.com/watch?v=VCEDG0gMu6M
 * Center Button:
   * Slide the horizontal slider to the center, it will become a button
   * Press button will change the color
+* Music: Dragging a slider will play the music
 
 ### Screenshot: 
 ![](https://github.com/2024-Creative-Coding-DZ/Interactive-House-Beats/blob/main/R.png)
